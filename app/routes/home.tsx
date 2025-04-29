@@ -19,7 +19,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-5 relative z-10">
           <div className="max-w-2xl">
             <h1 className="text-5xl mb-4 bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">
-              Hi, I'm [Your Name]
+              Hi, I'm Yahya ElAraby
             </h1>
             <p className="text-xl text-gray-400 mb-8">
               A passionate freelance developer specializing in creating modern, responsive web applications and solutions.
